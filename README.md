@@ -47,7 +47,7 @@ using [PyCharm](https://www.jetbrains.com/pycharm/download/) (the community edit
 You can use it to check out the repo that you forked. Make your changes including adding the new images, run the python
 script, commit them, and push them back to your repo. This way you can never lose them.
 
-Bonus! You can share the repo, have a few slow-witted people in charge of uploading the memes, and then the least retarded person
+Bonus! You can share the repo, have a few slow-witted people in charge of uploading the memes, and then the least handsome person
 on your team can handle the deployment stuff.
 
 ## Deployment
